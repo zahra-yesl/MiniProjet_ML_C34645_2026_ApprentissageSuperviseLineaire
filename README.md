@@ -8,14 +8,14 @@
 
 ---
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 Ce mini-projet a pour objectif de consolider les bases de l’apprentissage supervisé à travers l’implémentation et l’analyse de deux modèles fondamentaux :
 - la **régression linéaire** (MLS),
 - la **régression logistique** (MLNS).
 
 ---
 
-## 🧩 Partie 1 – Régression Linéaire (MLS)
+##  Partie 1 – Régression Linéaire (MLS)
 - Dataset utilisé : *Medical Insurance Cost* (Kaggle)
 - Variable cible numérique : `charges`
 - Étapes suivies :
@@ -28,7 +28,7 @@ Ce mini-projet a pour objectif de consolider les bases de l’apprentissage supe
 
 ---
 
-## 🧩 Partie 2 – Régression Logistique (MLNS)
+##  Partie 2 – Régression Logistique (MLNS)
 - Dataset utilisé : *Iris* (scikit-learn)
 - Problème transformé en classification binaire (Setosa vs autres)
 - Étapes suivies :
@@ -39,7 +39,7 @@ Ce mini-projet a pour objectif de consolider les bases de l’apprentissage supe
 
 ---
 
-## 📁 Contenu du dépôt
+## Contenu du dépôt
 - `MiniProjet_ML_C34645.ipynb` : notebook Python contenant tout le code et les résultats
 - `Rapport_MiniProjet_ML_C34645.pdf` : rapport PDF expliquant les choix méthodologiques et l’interprétation des résultats
 
