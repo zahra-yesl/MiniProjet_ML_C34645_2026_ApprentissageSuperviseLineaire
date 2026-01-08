@@ -2,7 +2,7 @@
 
 **Étudiant :** Zahra Yeselk Boubacar  
 **Matricule :** C34645  
-**Module :** Apprentissage Supervisé Linéaire  
+**Module :** ML Apprentissage Supervisé Linéaire  
 **Année :** 2026  
 ---
 
@@ -26,7 +26,7 @@ Ce mini-projet a pour objectif de consolider les bases de l’apprentissage supe
 
 ---
 
-##  Partie 2 – Régression Logistique (MLNS)
+##  Partie 2 – Régression Logistique (MLS)
 - Dataset utilisé : *Iris* (scikit-learn)
 - Problème transformé en classification binaire (Setosa vs autres)
 - Étapes suivies :
